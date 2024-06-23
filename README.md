@@ -7,4 +7,4 @@ SY in Computer Engineering at KJSCE | Aspiring Cybesec Enthusiast | Exploring Pe
 ## Objective
 
 My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, my goal for now is to upgrade my skills and gain more knowledge.
-This Repository will be updated frequently. 
+This ReadMe will be updated frequently. 
