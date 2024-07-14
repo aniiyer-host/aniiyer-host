@@ -1,5 +1,6 @@
 # Hello, I'm ANIKET!
 <a href="https://linkedin.com](https://www.linkedin.com/in/aniket-iyer-a5151829b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<script src="https://tryhackme.com/badge/2437998"></script>
 
 
 
