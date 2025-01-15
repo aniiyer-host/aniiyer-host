@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/aniket-iyer-a5151829b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/aniiyer.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2437998" style='border:none;'></iframe>
 
 
 SY in Computer Engineering at KJSCE | Aspiring Cybesec Enthusiast | Exploring Pen-Testing, Red Teaming and Possibly Every Other Aspect of Cybersec |
