@@ -3,7 +3,7 @@
 
 
 
-SY in Computer Engineering at KJSCE | Aspiring Cybesec Enthusiast | Exploring Pen-Testing, Red Teaming and Possibly Every Other Aspect of Cybersec |
+TY in Computer Engineering at KJSCE | Aspiring Cybesec Enthusiast | Exploring Pen-Testing, Red Teaming and Possibly Every Other Aspect of Cybersec |
 
 ## Objective
 
