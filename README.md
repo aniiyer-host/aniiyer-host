@@ -22,9 +22,9 @@
 
 🤖 Interested in AI, Cloud Computing, Secure Software Development, and System Design
 
-🛰️ Worked on projects involving ISRO datasets, web applications, embedded systems, and cybersecurity labs
+🛰️ Worked on projects involving ISRO CanSat Student Competition, web applications, and cybersecurity labs
 
-⚙️ Experience with Arduino, SolidWorks, 3D Printing, Flutter, Firebase, and React
+⚙️ Experience with SolidWorks, 3D Printing, Flutter, and MERN
 
 ---
 
@@ -102,11 +102,9 @@ Simple and clean To-Do app with along with a reminder feature.
 ## 🏆 Current Learning
 
 * Penetration Testing
-* Red Team Operations
-* Threat Hunting
-* SIEM & SOC Workflows
-* Cloud Security
-* AI-Powered Security Solutions
+* Web Technologies and APIs
+* App Development
+* Revising DSA
 
 ---
 
