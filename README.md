@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 Third-Year Computer Engineering Student at K. J. Somaiya College of Engineering (KJSCE)
+🎓 Last-Year Computer Engineering Student at K. J. Somaiya College of Engineering (KJSCE)
 
 💻 Passionate about Full-Stack Development, Mobile Development, and Cybersecurity
 
